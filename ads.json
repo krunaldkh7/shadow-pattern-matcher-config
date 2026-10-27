@@ -1,0 +1,10 @@
+{
+  "show_ads": true,
+  "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
+  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "interstitial_every_n_levels": 3,
+  "ios": {
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/2435281174",
+    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
+  }
+}
