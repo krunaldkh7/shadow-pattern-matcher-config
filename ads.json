@@ -3,6 +3,7 @@
   "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
   "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
   "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "rewarded_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/5354046379",
   "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
   "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
   "interstitial_every_n_clicks": 10,
@@ -14,6 +15,7 @@
     "banner_ad_unit_id": "ca-app-pub-3940256099942544/2435281174",
     "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/4411468910",
     "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/1712485313",
+    "rewarded_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/6978759866",
     "app_open_ad_unit_id": "ca-app-pub-3940256099942544/5575463023",
     "native_ad_unit_id": "ca-app-pub-3940256099942544/3986624511"
   }

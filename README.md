@@ -10,6 +10,7 @@ Edit it here and commit; users get the change the next time they open the app
 | `banner_ad_unit_id` | Banner at the bottom of menu screens. |
 | `interstitial_ad_unit_id` | Full-screen ad between levels. |
 | `rewarded_ad_unit_id` | Extra hints: once a level's 3 bulbs (top) or 3 free hints (bottom) are used, a tap offers a rewarded video. |
+| `rewarded_interstitial_ad_unit_id` | Offered on the solved card when bulbs were spent: a 5-second intro (with "No thanks"), then an ad that restores all 3 bulbs. |
 | `app_open_ad_unit_id` | Full-screen ad when the player returns to the app. |
 | `native_ad_unit_id` | Ad card between the gallery cards. |
 | `interstitial_every_n_clicks` | Interstitial after every N taps on menu screens. Taps on the game screen never count, and the ad never opens on top of a level (`0` = never). |
