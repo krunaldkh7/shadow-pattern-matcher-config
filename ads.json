@@ -8,7 +8,7 @@
   "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
   "interstitial_taps_min": 6,
   "interstitial_taps_max": 12,
-  "interstitial_every_n_levels": 0,
+  "interstitial_every_n_levels": 3,
   "interstitial_start_after_level": 0,
   "interstitial_min_interval_seconds": 0,
   "app_open_cooldown_minutes": 240,
