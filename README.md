@@ -8,8 +8,8 @@ Edit it here and commit; users get the change the next time they open the app
 |---|---|
 | `show_ads` | `true` shows ads, `false` turns every ad off. |
 | `banner_ad_unit_id` | Banner at the bottom of menu screens. |
-| `interstitial_ad_unit_id` | Full-screen ad between levels. |
-| `rewarded_ad_unit_id` | Extra hints: once a level's 3 bulbs (top) or 3 free hints (bottom) are used, a tap offers a rewarded video. |
+| `interstitial_ad_unit_id` | Full-screen ad: after random menu taps, and as the price of a hint once a level's free hints are used up. |
+| `rewarded_ad_unit_id` | Reward video behind the in-game **Skip** button: watch it to skip a level. |
 | `rewarded_interstitial_ad_unit_id` | Offered on the solved card when bulbs were spent: a 5-second intro (with "No thanks"), then an ad that restores all 3 bulbs. |
 | `app_open_ad_unit_id` | Full-screen ad when the player returns to the app. |
 | `native_ad_unit_id` | Ad card between the gallery cards. |
