@@ -14,5 +14,13 @@
     "rewarded_interstitial_ad_unit_id": "ca-app-pub-3256039627815671/4234769106",
     "native_ad_unit_id": "ca-app-pub-3256039627815671/4753643854",
     "app_open_ad_unit_id": "ca-app-pub-3256039627815671/6669360758"
+  },
+  "android": {
+    "banner_ad_unit_id": "ca-app-pub-3256039627815671/4756447620",
+    "interstitial_ad_unit_id": "ca-app-pub-3256039627815671/6093580028",
+    "rewarded_ad_unit_id": "ca-app-pub-3256039627815671/9673732382",
+    "rewarded_interstitial_ad_unit_id": "ca-app-pub-3256039627815671/2369957431",
+    "native_ad_unit_id": "ca-app-pub-3256039627815671/4229834015",
+    "app_open_ad_unit_id": "ca-app-pub-3256039627815671/8362531049"
   }
 }
